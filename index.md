@@ -65,6 +65,7 @@ Since deep learning and machine learning tend to be used interchangeably, it’s
 <img align = "right" src = "./comsol.jpg" width="40%" > 
 
 The finite element method is a numerical technique for obtaining approximate solutions to boundary-value problems of mathematical physics. 
+ Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent=physics-pdes-numerical-042-32).
 ### Here is my list:
 * Finite Difference Methods
 * Finite Element Methods
