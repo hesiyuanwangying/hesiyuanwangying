@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+---
 ## Navigation
 <span id="jump9">  </span>
 | Disciplinary Knowledge | Tool Knowledge | Philosophy |
