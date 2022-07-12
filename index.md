@@ -2,8 +2,8 @@
 layout: default
 ---
 
-
-## <span id="jump9"> Navigation </span>
+## Navigation
+<span id="jump9">  </span>
 | Disciplinary Knowledge       | Tool Knowledge        | Philosophy |
 |:-------:|:-----:|:------:|
 | [Geophysics](#jump1) | [Machine Learning](#jump3) | [Marxist Philosophy](#jump1)   |
