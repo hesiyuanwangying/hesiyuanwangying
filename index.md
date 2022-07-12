@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[Link to the original page of this theme](./template.md).
+
 ## Navigation 
 
 | <span id="jump9"> Disciplinary Knowledge </span> | Tool Knowledge | Philosophy |
@@ -85,5 +87,3 @@ The finite element method is a numerical technique for obtaining approximate sol
 
 ------
 | [Return to Navigation](#jump9) | Contact Us : hesiyuan.work@hotmail.com  |
-
-[Link to the original page of this theme](./template.md).
