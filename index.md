@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
+
+
 ## <span id="jump9"> Navigation </span>
 | Disciplinary Knowledge       | Tool Knowledge        | Philosophy |
-|:-------------|:------------------|:------|
+|:-------:|:-----:|:------:|
 | [Geophysics](#jump1) | [Machine Learning](#jump3) | [Marxist Philosophy](#jump1)   |
 | [Remote Sensing](#jump7)| [Numerical Simulation](#jump4) | [Chinese Ancient Philosophy](#jump8)  |
-||[Programming](#jump5)||
-||[Literature Management and Paper Writing Remote Sensing](#jump6)||
-||[Inverse Theory](#jump10)||
+|| [Programming](#jump5) ||
+|| [Literature Management and Paper Writing Remote Sensing](#jump6)| |
+|| [Inverse Theory](#jump10) ||
 
 # Disciplinary Knowledge
 
@@ -64,7 +66,6 @@ Since deep learning and machine learning tend to be used interchangeably, it’s
 <img align = "right" src = "./comsol.jpg" width="40%" > 
 
 The finite element method is a numerical technique for obtaining approximate solutions to boundary-value problems of mathematical physics. 
- Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent=physics-pdes-numerical-042-32).
 ### Here is my list:
 * Finite Difference Methods
 * Finite Element Methods
