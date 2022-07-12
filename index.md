@@ -5,7 +5,6 @@ layout: default
 ## <span id="jump9"> Navigation </span>
 
 | Disciplinary Knowledge       | Tool Knowledge        | Philosophy |
-|:-------------|:------------------|:------|
 | [Geophysics](#jump1) | [Machine Learning](#jump3) | [Marxist Philosophy](#jump1)   |
 | [Remote Sensing](#jump7)| [Numerical Simulation](#jump4) | [Chinese Ancient Philosophy](#jump8)  |
 ||[Programming](#jump5)||
