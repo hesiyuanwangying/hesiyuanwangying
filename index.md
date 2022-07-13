@@ -75,16 +75,38 @@ Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent
 * Finite Volume Methods
 * Other Methods
 ## <span id="jump5"> Programming </span>
+### Here is my list:
+* Matlab
+* Python
+* Fortran
+* Latex
+* Markdown
+* git and github
 
 ## <span id="jump6"> Literature Management and Paper Writing </span>
-
+### Here is my list:
+* Zetero
+* Paper Reading and Writing 
 ## <span id="jump10"> Inverse Theory </span>
+### Here is my list:
+* Basic Knowledge of Inversion Theory
+* Introduction to Inversion Theory
+* Methods of the Solution of Inverse Problems
+* Generalized Joint Inversion of Multimodal Data
+* Cases
+
+
 
 # Philosophy
 
 ## <span id="jump7"> Marxist Philosophy </span>
-
+### Here is my list:
+* Karl Marx and Friedrich Engels
+* Lenin 
+* Maoism
+* Marxism and modernity
 ## <span id="jump8"> Chinese Ancient Philosophy </span>
-
+### Here is my list:
+* Wang Yangming
 ------
 | [Return to Navigation](#jump9) | Contact Us : hesiyuan.work@hotmail.com  |
