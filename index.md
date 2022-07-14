@@ -64,17 +64,20 @@ Since deep learning and machine learning tend to be used interchangeably, it’s
 * Unsupervised Leanring
 * Semi-supervised Leanring
 * Reinforcement Leanring
+
 ## <span id="jump4"> Numerical Simulation </span>
 <img align = "right" src = "./comsol.jpg" width="40%" > 
 
 The finite element method is a numerical technique for obtaining approximate solutions to boundary-value problems of mathematical physics. 
 Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent=physics-pdes-numerical-042-32)
+
 ### Here is my list:
 * Finite Difference Methods
 * Finite Element Methods
 * Finite Volume Methods
 * Other Methods
 * Comsol
+
 ## <span id="jump5"> Programming </span>
 ### Here is my list:
 * Matlab
@@ -88,6 +91,7 @@ Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent
 ### Here is my list:
 * Zetero
 * Paper Reading and Writing 
+
 ## <span id="jump10"> Inverse Theory </span>
 ### Here is my list:
 * Basic Knowledge of Inversion Theory
@@ -96,15 +100,18 @@ Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent
 * Generalized Joint Inversion of Multimodal Data
 * Cases
 
-
-
 # Philosophy
 Philosophy is a way of thinking about certain subjects such as ethics, thought, existence, time, meaning and value. That 'way of thinking' involves 4 aspects: responsiveness, reflection, reason and re-evaluation. The aim is to deepen understanding. The hope is that by doing philosophy we learn to think better, to act more wisely, and thereby help to improve the quality of all our lives. Refering from [philosophy-foundation.org](https://www.philosophy-foundation.org/what-is-philosophy). 
+
+
 ## <span id="jump7"> Marxist Philosophy </span>
+
 ### Here is my list:
 * Marxism 
 * Other Philosophy
+
 ## <span id="jump8"> Chinese Ancient Philosophy </span>
+
 ### Here is my list:
 * Wang Yangming
 * The Art of War
