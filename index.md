@@ -8,8 +8,8 @@ layout: default
 
 | <span id="jump9"> Disciplinary Knowledge </span> | Tool Knowledge | Philosophy |
 |:-------:|:-----:|:------:|
-| [Geophysics](#jump1) | [Machine Learning](#jump3) | [Marxist Philosophy](#jump1) |
-| [Remote Sensing](#jump7)| [Numerical Simulation](#jump4) | [Chinese Ancient Philosophy](#jump8) | 
+| [Geophysics](#jump1) | [Machine Learning](#jump3) | [Marxist Philosophy](#jump7) |
+| [Remote Sensing](#jump2)| [Numerical Simulation](#jump4) | [Chinese Ancient Philosophy](#jump8) | 
 | | [Programming](#jump5) | |
 | | [Literature Management and Paper Writing Remote Sensing](#jump6)| |
 | | [Inverse Theory](#jump10) | |
@@ -74,6 +74,7 @@ Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent
 * Finite Element Methods
 * Finite Volume Methods
 * Other Methods
+* Comsol
 ## <span id="jump5"> Programming </span>
 ### Here is my list:
 * Matlab
@@ -98,15 +99,14 @@ Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent
 
 
 # Philosophy
-
+Philosophy is a way of thinking about certain subjects such as ethics, thought, existence, time, meaning and value. That 'way of thinking' involves 4 aspects: responsiveness, reflection, reason and re-evaluation. The aim is to deepen understanding. The hope is that by doing philosophy we learn to think better, to act more wisely, and thereby help to improve the quality of all our lives. Refering from [philosophy-foundation.org](https://www.philosophy-foundation.org/what-is-philosophy). 
 ## <span id="jump7"> Marxist Philosophy </span>
 ### Here is my list:
-* Karl Marx and Friedrich Engels
-* Lenin 
-* Maoism
-* Marxism and modernity
+* Marxism 
+* Other Philosophy
 ## <span id="jump8"> Chinese Ancient Philosophy </span>
 ### Here is my list:
 * Wang Yangming
+* The Art of War
 ------
 | [Return to Navigation](#jump9) | Contact Us : hesiyuan.work@hotmail.com  |
