@@ -6,12 +6,12 @@ layout: default
 
 ## Navigation 
 
-| <span id="jump9"> Disciplinary Knowledge </span> | Tool Knowledge | Philosophy |
+| <span id="jump9"> Disciplinary Knowledge </span> | Tool Knowledge | Philosophy, history and literature |
 |:-------:|:-----:|:------:|
-| [Geophysics](#jump1) | [Machine Learning](#jump3) | [Marxist Philosophy](#jump7) |
-| [Remote Sensing](#jump2)| [Numerical Simulation](#jump4) | [Chinese Ancient Philosophy](#jump8) | 
-| | [Programming](#jump5) | |
-| | [Literature Management and Paper Writing Remote Sensing](#jump6)| |
+| [Geophysics](#jump1) | [Machine Learning](#jump3) | [Philosophy](#jump7)|
+| [Remote Sensing](#jump2)| [Numerical Simulation](#jump4)|[History](#jump8)| 
+| | [Programming](#jump5) |[literature](#jump11)|
+| | [ Management and Paper Writing](#jump6)| |
 | | [Inverse Theory](#jump10) | |
 
 # Disciplinary Knowledge
@@ -104,16 +104,22 @@ Picture is from [here](https://cn.comsol.com/multiphysics/mesh-refinement?parent
 Philosophy is a way of thinking about certain subjects such as ethics, thought, existence, time, meaning and value. That 'way of thinking' involves 4 aspects: responsiveness, reflection, reason and re-evaluation. The aim is to deepen understanding. The hope is that by doing philosophy we learn to think better, to act more wisely, and thereby help to improve the quality of all our lives. Refering from [philosophy-foundation.org](https://www.philosophy-foundation.org/what-is-philosophy). 
 
 
-## <span id="jump7"> Marxist Philosophy </span>
+## <span id="jump7">  Philosophy </span>
 
 ### Here is my list:
-* Marxism 
+* Marxism
+* Wang Yangming
 * Other Philosophy
 
-## <span id="jump8"> Chinese Ancient Philosophy </span>
+## <span id="jump8"> History </span>
 
 ### Here is my list:
-* Wang Yangming
-* The Art of War
+* 史记
+
+## <span id="jump11">  literature </span>
+
+### Here is my list:
+* poetry
+
 ------
 | [Return to Navigation](#jump9) | Contact Us : hesiyuan.work@hotmail.com  |
