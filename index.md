@@ -10,7 +10,7 @@ layout: default
 |:-------:|:-----:|:------:|
 | [Geophysics](#jump1) | [Machine Learning](#jump3) | [Philosophy](#jump7)|
 | [Remote Sensing](#jump2)| [Numerical Simulation](#jump4)|[History](#jump8)| 
-| | [Programming](#jump5) |[literature](#jump11)|
+| | [Programming](#jump5) |[Literature](#jump11)|
 | | [ Management and Paper Writing](#jump6)| |
 | | [Inverse Theory](#jump10) | |
 
